@@ -7,5 +7,5 @@
    ============================================================ */
 
 window.STUDIO_CONFIG = {
-  API_BASE: "http://localhost:5170/api"
+  API_BASE: "https://studiosport-server.onrender.com/api"
 };
